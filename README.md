@@ -16,9 +16,9 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding" width="600" height="450"/>
 </p >
 
-- 👨‍💻 Explore my projects on GitHub: [🔗 Visit My Repositories](https://github.com/smritisinha24)
+- 👨‍💻 Explore my projects on GitHub: [🔗 Visit My Repositories](https://github.com/smritisinha24?tab=repositories)
 
-- 📫 How to reach me : **smritisinha2003@gmail.com**
+- 📫 How to reach me : smritisinha2003@gmail.com
   
 - 📄 Know about my experiences: [🔗Resume ](https://drive.google.com/file/d/1nkfIixvLnq__k4ZgEO7r1UKb1bttEy0G/view)
 </p>
