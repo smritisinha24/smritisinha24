@@ -19,8 +19,8 @@
 - 👨‍💻 Explore my projects on GitHub: [🔗 Visit My Repositories](https://github.com/smritisinha24)
 
 - 📫 How to reach me : **smritisinha2003@gmail.com**
-- 📄 Know about my experiences: [https://drive.google.com/file/d/11GXYU58fTg-WUPld0kf6f8dFplCWS3V3/view?usp=sharing](https://drive.google.com/file/d/11GXYU58fTg-WUPld0kf6f8dFplCWS3V3/view?usp=sharing)
-- 📄 Know about my experiences:[ [https://drive.google.com/file/d/11GXYU58fTg-WUPld0kf6f8dFplCWS3V3/view?usp=sharing](https://drive.google.com/file/d/11GXYU58fTg-WUPld0kf6f8dFplCWS3V3/view?usp=sharing)
+  
+- 📄 Know about my experiences: [🔗Resume ](https://drive.google.com/file/d/1nkfIixvLnq__k4ZgEO7r1UKb1bttEy0G/view)
 </p>
 
 ---
