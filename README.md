@@ -16,10 +16,11 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding" width="600" height="450"/>
 </p >
 
-- 👨‍💻 Explore my projects on GitHub: [🔗 Visit My Repositories](https://github.com/smritisinha2003)
+- 👨‍💻 Explore my projects on GitHub: [🔗 Visit My Repositories](https://github.com/smritisinha24)
 
 - 📫 How to reach me : **smritisinha2003@gmail.com**
 - 📄 Know about my experiences: [https://drive.google.com/file/d/11GXYU58fTg-WUPld0kf6f8dFplCWS3V3/view?usp=sharing](https://drive.google.com/file/d/11GXYU58fTg-WUPld0kf6f8dFplCWS3V3/view?usp=sharing)
+- 📄 Know about my experiences:[ [https://drive.google.com/file/d/11GXYU58fTg-WUPld0kf6f8dFplCWS3V3/view?usp=sharing](https://drive.google.com/file/d/11GXYU58fTg-WUPld0kf6f8dFplCWS3V3/view?usp=sharing)
 </p>
 
 ---
@@ -101,7 +102,7 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/smriti-sinha-741aa1216" target="_blank">
+  <a href="https://www.linkedin.com/in/smriti-sinha-741aa1216" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 20px;"/>
   </a>
   <a href="https://instagram.com/smritisinha24" target="_blank">
@@ -110,7 +111,7 @@
   <a href="https://www.leetcode.com/smritisinha2003" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 20px;"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/smriti24" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/smriti24" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" style="margin-right: 20px;"/>
   </a>
 </p>
