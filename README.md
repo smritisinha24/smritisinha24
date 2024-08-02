@@ -1,16 +1,31 @@
+
 <h1 align="center">Hi 👋, I'm Smriti</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+
+<h3 align="center">Welcome to my GitHub profile! 🚀</h3>
+
+<h3 align="center">A passionate frontend developer who loves to create and innovate</h3>
+<h6 align=""center>I am a Motivated and diligent individual with a sound foundation in Web development who is always on a lookout for exciting projects to work on. I am passionate about helping my clients bringing their brands to life and telling their stories visually.</h6>
 
 <p align="center">
-  <a href="https://knowaboutsmriti.netlify.app" target="_blank">🌐 My Projects</a> • 
-  <a href="mailto:smritisinha2003@gmail.com">✉️ Contact Me</a> • 
-  <a href="https://drive.google.com/file/d/11GXYU58fTg-WUPld0kf6f8dFplCWS3V3/view?usp=sharing" target="_blank">📄 My Resume</a>
+  <a href="https://knowaboutsmriti.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding" width="600" height="450"/>
+</p >
+
+- 👨‍💻 Explore my projects on GitHub: [🔗 Visit My Repositories](https://github.com/smritisinha2003)
+
+- 📫 How to reach me : **smritisinha2003@gmail.com**
+- 📄 Know about my experiences: [https://drive.google.com/file/d/11GXYU58fTg-WUPld0kf6f8dFplCWS3V3/view?usp=sharing](https://drive.google.com/file/d/11GXYU58fTg-WUPld0kf6f8dFplCWS3V3/view?usp=sharing)
 </p>
 
 ---
 
 ### 🛠️ Technologies & Tools
-<p align="left">
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" style="margin-right: 10px;"/>
   </a>
@@ -78,97 +93,33 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💡 Random Quote
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smritisinha2003&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smritisinha2003&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="80%"/>
 </p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smritisinha2003&theme=radical" alt="GitHub Trophies"/>
-</p>
-
----
-
-### 💡 Fun Facts
-- 🌱 I’m currently learning **Kotlin and Jetpack Compose**
-- ⚡ Fun fact: **I love coding and solving complex problems**
-- 🎨 I enjoy creating intuitive and dynamic user interfaces
-
 ---
 
 ### 📫 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/smriti-sinha-741aa1216" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 20px;"/>
   </a>
   <a href="https://instagram.com/smritisinha24" target="_blank">
-       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin-right: 20px;"/>
   </a>
   <a href="https://www.leetcode.com/smritisinha2003" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 20px;"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/smriti24" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" style="margin-right: 20px;"/>
   </a>
-</p>
-
----
-
-### 🐱 My GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smritisinha2003&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-### 🌟 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Post Title](#)
-- [Post Title](#)
-- [Post Title](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 📝 Recent Activity
-<!--START_SECTION:activity-->
-1. 💬 Commented on [Issue](#)
-2. 🎉 Merged PR [#](#) in [repository](#)
-3. ❗️ Closed Issue [#](#) in [repository](#)
-<!--END_SECTION:activity-->
-
----
-
-### 🎥 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Video Title](#)
-- [Video Title](#)
-- [Video Title](#)
-<!-- YOUTUBE:END -->
-
----
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=smritisinha2003&theme=radical" alt="Contribution Graph"/>
 </p>
 
 ---
 
 ### 💬 Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smritisinha2003&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-### 🎨 Fun Fact
-<p align="center">
-  <img src="https://media.giphy.com/media/26uf9QPzzlKPvQG1y/giphy.gif" alt="Coding" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smritisinha24&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -182,11 +133,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/images/statistics.svg" alt="Statistics" width="400" height="300"/>
-</p>
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=smritisinha2003.smritisinha2003" alt="Visitors"/>
 </p>
