@@ -1,9 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Smriti</h1>
+<!--<h1 align="center">Hi 👋, I'm Smriti</h1> -->
 
-<h3 align="center">Welcome to my GitHub profile! 🚀</h3>
+<!--<h1 align="center">Welcome to my GitHub profile! 🚀</h1> -->
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5704435.png" width="996" height="88" alt="Welcome to my GitHub profile!" /></a>
+<!--<h3 align="center">A passionate frontend developer who loves to create and innovate</h3> -->
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Allura&color=%23f2c6c6&size=40&center=true&vCenter=true&width=450&duration=2000&pause=1000&lines=Smriti+Sinha;Software+Engineer;Frontend+Developer; Software+Developer" width="auto" height="80"/>
+</p>
 
-<h3 align="center">A passionate frontend developer who loves to create and innovate</h3>
 <h6 align=""center>I am a Motivated and diligent individual with a sound foundation in Web development who is always on a lookout for exciting projects to work on. I am passionate about helping my clients bringing their brands to life and telling their stories visually.</h6>
 
 <p align="center">
@@ -105,12 +109,15 @@
   <a href="https://www.linkedin.com/in/smriti-sinha-741aa1216" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 20px;"/>
   </a>
+   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/smritisinha24" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin-right: 20px;"/>
   </a>
+   &nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/smritisinha2003" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 20px;"/>
   </a>
+   &nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/smriti24" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" style="margin-right: 20px;"/>
   </a>
