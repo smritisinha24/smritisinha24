@@ -8,7 +8,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Allura&color=%23f2c6c6&size=40&center=true&vCenter=true&width=450&duration=2000&pause=1000&lines=Smriti+Sinha;Software+Engineer;Frontend+Developer; Software+Developer" width="auto" height="80"/>
 </p>
 
-<h6 align=""center>I am a Motivated and diligent individual with a sound foundation in Web development who is always on a lookout for exciting projects to work on. I am passionate about helping my clients bringing their brands to life and telling their stories visually.</h6>
+<h3 align=""center>I am a Motivated and diligent individual with a sound foundation in Web development who is always on a lookout for exciting projects to work on. I am passionate about helping my clients bringing their brands to life and telling their stories visually.</h3>
 
 <p align="center">
   <a href="https://knowaboutsmriti.netlify.app/" target="_blank">
